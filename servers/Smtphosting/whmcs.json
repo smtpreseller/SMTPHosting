@@ -1,0 +1,14 @@
+{
+    "schema": "1.0",
+    "type": "whmcs-extension",
+    "name": "Smtphosting",
+    "license": "proprietary",
+    "category": "provisioning",
+    "description": {
+        "name": "Smtphosting",
+        "tagline": "",
+        "short": "",
+        "long": ""
+    },
+    "hash": "0b5391a8d8edf9cf6c35ba7f235d309445344e92"
+}
